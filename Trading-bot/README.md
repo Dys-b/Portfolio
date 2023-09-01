@@ -7,3 +7,5 @@ While diligent effort has been put into developing and training the bot using an
 Implementing risk management measures, such as setting investment limits and using stop-loss, may be crucial in minimizing the risk of substantial losses. The information provided in this project is for educational purposes only and should not be considered as financial or investment advice.
 
 Please remember that the past performance of any trading strategy doesn't guarantee future results and it's important to be prepared to absorb potential losses while engaging in financial trades."**
+
+The LSTM model training and trading bot implementation were developed using the Metatrader 5 libraries for Python, you need to have an account with broker that allows to use the Expert Advisors to use it.
