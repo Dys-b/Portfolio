@@ -8,4 +8,3 @@ Implementing risk management measures, such as setting investment limits and usi
 
 Please remember that the past performance of any trading strategy doesn't guarantee future results and it's important to be prepared to absorb potential losses while engaging in financial trades."**
 
-The LSTM model training and trading bot implementation were developed using the Metatrader 5 libraries for Python, you need to have an account with broker that allows to use the Expert Advisors to use it.
