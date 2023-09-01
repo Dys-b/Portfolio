@@ -1,4 +1,4 @@
-"Risk Disclaimer:
+#Risk Disclaimer:
 
 It's important to highlight that the developed trading bot may be exposed to financial risks and there's a possibility that the executed trades could result in financial losses. Financial markets are inherently volatile and can change rapidly due to a range of factors, including economic events, geopolitical shifts, and other unpredictable influences.
 
